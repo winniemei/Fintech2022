@@ -128,7 +128,7 @@ def calculate_present_value(future_value,remaining_months,annual_discount_rate):
 #    Use an `annual_discount_rate` of 0.2 for this new loan calculation.
 # YOUR CODE HERE!
 
-present_value = calculate_present_value(1000,12,.2)
+present_value = calculate_present_value(new_loan["future_value"],new_loan["remaining_months"],.2)
 print(f"The present value of the loan is: {present_value}.")
 
 
