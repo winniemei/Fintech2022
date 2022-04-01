@@ -1,0 +1,39 @@
+
+  993  /usr/local/bin/python3 /Users/winnie.mei/Desktop/Fintech-Workspace/Activities/app.py
+  994  conda activate dev
+  995  pip -V
+  996  pip freeze
+  997  pip install fire
+  998  pip install questionary
+  999  /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin/java ; exit;
+ 1000  jupyter lab
+ 1001  cd Desktop
+ 1002  ls
+ 1003  cd Fintech-Workspace
+ 1004  ls
+ 1005  cd CU-VIRT-FIN-PT-03-2022-U-B
+ 1006  ls
+ 1007  git pull
+ 1008  git fetch
+ 1009  cd ..
+ 1010  cd ..
+ 1011  cd Fintech2022
+ 1012  ls
+ 1013  mkdir Assignment 2
+ 1014  ls
+ 1015  mkdir Assignment2
+ 1016  ls
+ 1017  touch README.md
+ 1018  ls
+ 1019  pip install fire
+ 1020  import fire
+ 1021  cd ..
+ 1022  cd Fintech-Workspace/
+ 1023  pip install fire
+ 1024  pip install questionary
+ 1025  cd ..
+ 1026  cd Fintech2022
+ 1027  git status
+ 1028  git add .
+ 1029  git commit -m "first draft of assignment 2"
+ 1030  git push
