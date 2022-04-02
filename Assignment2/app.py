@@ -112,9 +112,13 @@ def save_qualifying_loans(qualifying_loans):
     # YOUR CODE HERE!
     if len(qualifying_loans) > 0:
         user_save = questionary.confirm("Do you want to save your qualifying bank loans?").ask()
-        csvpath = questionary.text("Enter a file path to save your list of qualifying bank loans(.csv):").ask()
-        csvpath = Path(csvpath)
-        save_csv(csvpath, qualifying_loans)
+        if user_save == True:
+            csvpath = questionary.text("Enter a file path to save your list of qualifying bank loans(.csv):").ask()
+            csvpath = Path(csvpath)
+            save_csv(csvpath, qualifying_loans)
+        else:
+            sys.exit("Goodbye!")
+    
 
 def run():
     """The main function for running the script."""
