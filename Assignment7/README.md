@@ -19,7 +19,7 @@ This project leverages python 3.7 with the following packages:
 
 ## Usage
 
-To use the ETF portfolio application simply clone the repository and run the **app.py** with:
+To use the ETF portfolio application simply clone the repository and run the **etf_analyzer.ipynb** with:
 
 ```python
 voila etf_analyzer.ipynb
