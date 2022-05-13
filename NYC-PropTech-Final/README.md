@@ -123,15 +123,28 @@ For this part of the assignment, we attempted to forecast the median prices for 
 
 (1) Ran a monte carlo simulation for real estate prices in LA.
 
+![Monte Carlo NY](./images/montecarlony.png)
+
 (2) Ran a monte carlo simulation real estate prices in NY.
+
+![Monte Carlo LA](./images/montecarlola.png)
 
 ### **Conclusions**
 
 Based on our analysis, we came to the following conclusions:
 
-(A) XXXX
+(A) LA real estate prices are increasing at a higher rate than NY (Queens County) real estate prices.
 
-(B) XXXX
+(B) Real estate prices are inversely correlated with mortgage rates.
+
+(C) Invest in real estate because returns are extremely positive.
+       There is a 95% chance that the LA median home value over the next thirty years will be within the range of $4,990,809.80 and $8,224,836.22.
+
+       There is a 95% chance that the NY median home value over the next thirty years will be within the range of $1,901,451.6 and $2,323,568.72.
+
+       If we invest $500K in LA real estate now, we predict a 1215.7% return on investment in 30 years.
+
+       If we invest $500k in NY (Queens County) real estate now, we predict a 318.6% return on investment in 30 years.
 
 ---
 ## Contributors
