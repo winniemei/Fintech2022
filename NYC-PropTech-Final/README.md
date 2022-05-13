@@ -138,6 +138,7 @@ Based on our analysis, we came to the following conclusions:
 (B) Real estate prices are inversely correlated with mortgage rates.
 
 (C) Invest in real estate because returns are extremely positive.
+       
        There is a 95% chance that the LA median home value over the next thirty years will be within the range of $4,990,809.80 and $8,224,836.22.
 
        There is a 95% chance that the NY median home value over the next thirty years will be within the range of $1,901,451.6 and $2,323,568.72.
