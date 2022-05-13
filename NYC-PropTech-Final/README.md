@@ -123,11 +123,11 @@ For this part of the assignment, we attempted to forecast the median prices for 
 
 (1) Ran a monte carlo simulation for real estate prices in LA.
 
-![Monte Carlo NY](./images/montecarlony.png)
+![Monte Carlo NY](./images/montecarlola.png)
 
 (2) Ran a monte carlo simulation real estate prices in NY.
 
-![Monte Carlo LA](./images/montecarlola.png)
+![Monte Carlo LA](./images/montecarlony.png)
 
 ### **Conclusions**
 
