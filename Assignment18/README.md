@@ -33,6 +33,7 @@ This project leverages python 3.7 with the following libraries and dependencies:
 ## Contributors
 
 Brought to you by Winnie Mei
+
 ---
 ## License
 
