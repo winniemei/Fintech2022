@@ -17,7 +17,7 @@ This project leverages python 3.7 and streamlit. Please complete the following i
 
 ---
 
-### **Run the Application
+### Run the Application
 
 Please run the application by typing "streamlit run app.py" in your terminal. 
 If the application is running properly, you should be able to add another block of data into your ledger.
