@@ -8,17 +8,21 @@ I am building a blockchain-based ledger system with a user-friendly web interfac
 
 ## Technologies
 
-This project leverages python 3.7. Please import: 
+This project leverages python 3.7 and streamlit. Please complete the following imports: 
 
-import streamlit as st
-from dataclasses import dataclass
-from datetime import datetime
-from typing import Any
-
+1. import streamlit as st
+2. from dataclasses import dataclass
+3. from datetime import datetime
+4. from typing import Any
 
 ---
 
-### **See the app running
+### **Run the Application
+
+Please run the application by typing "streamlit run app.py" in your terminal. 
+If the application is running properly, you should be able to add another block of data into your ledger.
+Please see below for an example.
+
 ![Added block](./apprunning.png)
 
 ---
