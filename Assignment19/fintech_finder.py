@@ -30,6 +30,7 @@ from dataclasses import dataclass
 from typing import Any, List
 from web3 import Web3
 w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
+import crypto_wallet
 ################################################################################
 # Step 1:
 # Import Ethereum Transaction Functions into the Fintech Finder Application
@@ -80,6 +81,7 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 # From `crypto_wallet.py import the functions generate_account, get_balance,
 #  and send_transaction
 # YOUR CODE HERE
+from crypto_wallet import generate_account
 
 ################################################################################
 # Fintech Finder Candidate Information
@@ -131,6 +133,7 @@ st.sidebar.markdown("## Client Account Address and Ethernet Balance in Ether")
 # @TODO:
 #  Call the `generate_account` function and save it as the variable `account`
 # YOUR CODE HERE
+account = generate_account()
 
 ##########################################
 
