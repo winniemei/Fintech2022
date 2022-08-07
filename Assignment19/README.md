@@ -3,7 +3,7 @@
 
 <p>
     
-I am making an the Fintech Finder, which is an application that allows customers to find fintech professionals from among a list of candidates, hire them, and pay them.
+The Fintech Finder is an application that allows customers to find fintech professionals from among a list of candidates, hire them, and pay them.
 </p>
 
 ---
